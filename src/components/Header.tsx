@@ -3,7 +3,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <Typography color="error">
+    <Typography color="error" variant='h2' component="h1" align='center'>
       Todo App with Typescript
     </Typography>
   )
